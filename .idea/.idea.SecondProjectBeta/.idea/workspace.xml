@@ -2,100 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71494d2a-5973-4378-bd84-1ab1651cbaab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SecondProjectBeta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecondProjectBeta/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_Arrow.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_Arrow.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_Arrow.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_Arrow.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_snow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_snow.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_wenli2.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_wenli2.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_wenli2.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_wenli2.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_wenli2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/FrostArcher_wenli2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/Materials/3029_FrostArcher_snow.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/Materials/3029_FrostArcher_snow.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/Materials/General_wenli2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/Materials/General_wenli2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/Materials/bingdong.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/Materials/bingdong.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/bingshuanggongjianshou_B_COL(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/bingshuanggongjianshou_B_COL(1).png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/shader/Bingdong_vogeo.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Effect/Soldier/FrostArcher/FrostArcher_effect/shader/Bingdong_vogeo.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/2998_Shadow_Role.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/2998_Shadow_Role.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/Shadow_Role.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/Shadow_Role.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/XiaoBin_Blue_Texture.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/XiaoBin_Blue_Texture.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/XiaoBin_Blue_Texture_noCrunch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/Fbx/Armies/0_Texture/XiaoBin_Blue_Texture_noCrunch.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/FrostArcher.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/FrostArcher.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/IceArrow.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourses/WW4_Effects_Sub/IceArrow.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/NewBehaviourScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/NewBehaviourScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/e14d86-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/e14d86-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/7650b9-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/7650b9-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondProjectBeta.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SecondProjectBeta.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-084226d92049e4921aa76900fcf3063e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2761a7f0f03004859862cda830cef9bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-390109297b9d74aada4021f3fb9481d5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-43c96500931d74ab1b00297b896c02bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4495b2c0bdedd4b8aacf8d3ba8d3336d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-45710b71591fb4fc3b1cb997545348e6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-513cdbe5d39c74e95800e13f20cbda6f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-71eb60f7cbb7540aebe6f914497e7680" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-72627ecfc68104db788716d918073ad6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-98a116578e3e24e4a88f42ebf70b8ae6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b8173f08efff84b6790c73a79729a952" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e1bb8f72a57a24678b574704256a2c83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e71cfb63fdd5b4a34a36388b06f4f9a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +13,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -179,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627893331708</updated>
       <workItem from="1627893346948" duration="9758000" />
-      <workItem from="1627954288149" duration="27309000" />
+      <workItem from="1627954288149" duration="27627000" />
     </task>
     <task id="LOCAL-00001" summary="resource">
       <created>1627893400825</created>
@@ -188,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627893400825</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成代码">
+      <created>1627990384993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627990384993</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="resource" />
-    <option name="LAST_COMMIT_MESSAGE" value="resource" />
+    <MESSAGE value="完成代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

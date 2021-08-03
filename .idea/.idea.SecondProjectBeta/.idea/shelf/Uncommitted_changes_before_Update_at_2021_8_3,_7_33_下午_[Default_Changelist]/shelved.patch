@@ -1,0 +1,15 @@
+Index: Library/ProtocolInstance.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>[{\"Port\":53279,\"SolutionName\":\"SecondProjectBeta\",\"ProtocolGuid\":\"ca1ba338-cca4-4e4d-8a49-b08f8e521651\"}]
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Library/ProtocolInstance.json b/Library/ProtocolInstance.json
+--- a/Library/ProtocolInstance.json	(revision 44d6cd922eb918dcb989a26a7cbf63871e9d9874)
++++ b/Library/ProtocolInstance.json	(date 1627990400561)
+@@ -1,1 +1,1 @@
+-[{"Port":53279,"SolutionName":"SecondProjectBeta","ProtocolGuid":"ca1ba338-cca4-4e4d-8a49-b08f8e521651"}]
+\ No newline at end of file
++[{"Port":53419,"SolutionName":"SecondProjectBeta","ProtocolGuid":"ca1ba338-cca4-4e4d-8a49-b08f8e521651"}]
+\ No newline at end of file
