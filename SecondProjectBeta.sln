@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableRead", "TableRead.csproj", "{3C31595C-5D35-1FD1-C00F-96FDA8970964}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{366E17CC-5595-854B-944F-4F4B2AB162C9}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C31595C-5D35-1FD1-C00F-96FDA8970964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C31595C-5D35-1FD1-C00F-96FDA8970964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C31595C-5D35-1FD1-C00F-96FDA8970964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C31595C-5D35-1FD1-C00F-96FDA8970964}.Release|Any CPU.Build.0 = Release|Any CPU
 		{366E17CC-5595-854B-944F-4F4B2AB162C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{366E17CC-5595-854B-944F-4F4B2AB162C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{366E17CC-5595-854B-944F-4F4B2AB162C9}.Release|Any CPU.ActiveCfg = Release|Any CPU

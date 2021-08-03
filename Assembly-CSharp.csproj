@@ -58,8 +58,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\NewBehaviourScript.cs" />
-     <None Include="Assets\Resourses\WW4_Effects_Sub\Effect\Soldier\FrostArcher\FrostArcher_effect\shader\Bingdong_vogeo.shader" />
+     <Compile Include="Assets\Script\IceArrow.cs" />
+     <Compile Include="Assets\Script\PlayHealth.cs" />
+     <Compile Include="Assets\Script\PlayerAttack.cs" />
+     <Compile Include="Assets\Script\PlayerMove.cs" />
+     <None Include="Assets\Resources\WW4_Effects_Sub\Effect\Soldier\FrostArcher\FrostArcher_effect\shader\Bingdong_vogeo.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/liuhao/SecondProjectBeta/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
@@ -618,6 +621,12 @@
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="TableRead.csproj">
+      <Project>{3C31595C-5D35-1FD1-C00F-96FDA8970964}</Project>
+      <Name>TableRead</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
