@@ -40,7 +40,7 @@ public class PlayerAttack : MonoBehaviour
             animator.SetBool("isAttack",true);
             // animator.SetBool("isStop",false);
             // animator.SetBool("isRun",false);
-            CreateAttack();
+            //CreateAttack();
             timer = 0.0f;
         }
         else
@@ -86,6 +86,7 @@ public class PlayerAttack : MonoBehaviour
     void ShowRun()
     {
         animator.SetBool("isAttack",false);
+        CreateAttack();
         /*animator.SetBool("isStop",false);
         animator.SetBool("isRun",false);
         animator.SetBool("isAttack",true);
